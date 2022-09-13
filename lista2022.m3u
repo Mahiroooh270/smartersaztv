@@ -1,0 +1,100 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Acrítica HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/TVACr%C3%ADtica/live
+
+#EXTINF:-1 tvg-logo="" group-title="",SBT HD
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w1506226532.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Nordestina HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/QDNfw7DdMbs/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal UOL HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/uol/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Band Jornalismo HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/bandjornalismo/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Fla TV HD (funciona quando tiver live)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/flamengo/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Euronews HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/JyC8mwZqJao/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Chaves 24h (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/2I0eMDu2Qsk/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Nasa Live Stream 24h (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/86YLFOog4GM/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Record News HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/FKJQ5ioUJTk/live
+
+#EXTINF:-1 tvg-logo="" group-title="",TV 247 HD (funciona quando tiver live)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/brasil247/live
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Canção Nova HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/tvcancaonova/live
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Justiça HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/ncUZJKHlUQ8/live
+
+#EXTINF:-1 tvg-logo="" group-title="",PontoJus HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/LAqkP1kudWk/live
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Senado HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/tvsenado/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Boa Vontade TV HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/jTYD76rrbkw/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Mapa do Covid-19 24h - Live Stream (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/NMre6IAAAiU/live
+
+#EXTINF:-1 tvg-logo="" group-title="",CNN Brasil HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/CNNbrasil/live
+
+#EXTINF:-1 tvg-logo="" group-title="", Forró e Piseiro 24h - Sua Música HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/VYHHZsyOeBE/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Tlnovelas HD (sinal Twitch)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/txn_859t?tt_content=twitch_logo&tt_medium=embed/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Las Estrellas HD (sinal Twitch)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/6ivm88v?tt_content=twitch_logo&tt_medium=embed/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Univision HD (sinal Twitch)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/umv_310ll?tt_content=twitch_logo&tt_medium=embed/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Telemundo HD (sinal Twitch)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/txl_002ttl?tt_content=twitch_logo&tt_medium=embed/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 5 HD (sinal Twitch)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/8mk019dt?tt_content=twitch_logo&tt_medium=embed/live
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Cultura HD 
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1702712885.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TVE RS HD
+https://streaming.procergs.com.br:8443/tve/stve/chunklist_w1341094408.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Aparecida HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/1KIucmaYkmU/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Cultura PR HD
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SIC Portugal HD
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TV Novo Tempo HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/wxdR5F7ySdM/live
+
+#EXTINF:-1 tvg-logo="" group-title="",Cidade de Aparecida 24h HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/qKFd7p6oZKI/live
+
+#EXTINF:-1 tvg-logo="" group-title="",VTV SBT Campinas HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8Ywr1JnoI2E/live
+
+#EXTINF:-1 tvg-logo="" group-title="",SBT Pará HD (sinal YouTube)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/BAZ8tVEClZw/live
