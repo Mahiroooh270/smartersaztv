@@ -6,6 +6,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/c/TVACr%C3%
 #EXTINF:-1 tvg-logo="" group-title="",SBT HD
 https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",SBT HD (Opção 2)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",TV Nordestina HD (sinal YouTube)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/QDNfw7DdMbs/live
 
